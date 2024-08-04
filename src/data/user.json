@@ -1,0 +1,47 @@
+{
+  "Emp": [
+    {
+      "id": "1",
+      "img": "https://tse2.mm.bing.net/th?id=OIP.XcX6BCKdFGqPfV65x2mbMwHaHa&pid=Api&P=0&h=220",
+      "email": "bandimanikanta33@gmail.com",
+      "Name": "Bandi.Manikanta",
+      "phone": "8501969943",
+      "designation": "HR",
+      "gender": "Male",
+      "Course": [
+        "MCA",
+        "BSC"
+      ],
+      "CreateData": "2024-07-01"
+    },
+    {
+      "id": "3",
+      "img": "https://tse2.mm.bing.net/th?id=OIP.SN7i81Zoh0aVH1GKYlOQZgAAAA&pid=Api&P=0&h=220",
+      "email": "Prince@gmail.com",
+      "Name": "Ammu",
+      "phone": "8501969943",
+      "designation": "Tester",
+      "gender": "Female",
+      "Course": [
+        "BSC",
+        "MCA"
+      ],
+      "CreateData": "2024-01-15"
+    },
+    {
+      "id": "4",
+      "img": "https://tse2.mm.bing.net/th?id=OIP.dQn42yiYeGZdgAV6DR51ZAAAAA&pid=Api&P=0&h=220",
+      "email": "priya235@gmail.com",
+      "Name": "Priya",
+      "phone": "5555555555",
+      "designation": "Manager",
+      "gender": "Female",
+      "Course": [
+        "BCA",
+        "MCA",
+        "BSC"
+      ],
+      "CreateData": "2020-12-23"
+    }
+  ]
+}
